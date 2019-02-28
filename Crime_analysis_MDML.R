@@ -1,3 +1,4 @@
+# Authors: Andrea Hassler, Jui Arvind Nerurkar, Emmanuel Bazov
 #LIBRARY
 
 library(xml2)
